@@ -1,6 +1,5 @@
 # IPP-Net_Parsing
-**This is the official repo of IPP-Net and our work [Integrating Human Parsing and Pose Network for Human Action Recognition](https://arxiv.org/abs/2307.07977) is accepted by CAAI International Conference on Artificial Intelligence (CICAI 2023).**
-![image](https://github.com/liujf69/IPP-Net-Parsing/blob/master/IPPNet.png)
+**Integrating Human Parsing and Pose Network for Human Action Recognition is a Human Activity Recognition Project that that combines two varied approaches for activity identification and analysis.**
 # Prerequisites
 You can install necessary dependencies by running ```pip install -r requirements.txt```  <br />
 Then, you need to install torchlight by running ```pip install -e torchlight```  <br />
