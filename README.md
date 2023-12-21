@@ -1,8 +1,6 @@
 # IPP-Net_Parsing
-**Integrating Human Parsing and Pose Network for Human Action Recognition is a Human Activity Recognition Project that that combines two varied approaches for activity identification and analysis.**
-# Prerequisites
-You can install necessary dependencies by running ```pip install -r requirements.txt```  <br />
-Then, you need to install torchlight by running ```pip install -e torchlight```  <br />
+**Integrating Human Parsing and Pose Network for Human Action Recognition is a Human Activity Recognition Project that that combines two varied approaches for activity identification and analysis. It involves Human Parsing, branch of Semantic Segmentation and Human Pose Estimation.**
+
 
 # Data Preparation
 ## Download datasets:
